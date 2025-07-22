@@ -1,4 +1,5 @@
 📂 Data Availability
+
 The satellite-derived phenology data (GUD and DFS) used in this study are publicly available on Zenodo:
 
 🔗 https://doi.org/10.5281/zenodo.16311970
